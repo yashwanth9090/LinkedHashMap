@@ -8,7 +8,6 @@ public class LinkedHashMap {
 		newList.insert(1,"yashu"); 
 		newList.insert(2,"uttam");
 		newList.insert(3,"sam"); 
-	//	newList.print();
 		MyIterator<Integer,String> iter = newList.iterator();
 		while(iter.hasNext()){
 			@SuppressWarnings("rawtypes")
