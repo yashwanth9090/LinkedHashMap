@@ -36,7 +36,6 @@ public class HashMap<K,V> implements OrderedSet<K,V>, Container<K,V>{
 		array = new Node[length];
 	}
 	
-	//Iterator
 	private class LinkedHashMapIterator implements MyIterator<K,V>{
 		private Node<K,V> temp ;
 		
