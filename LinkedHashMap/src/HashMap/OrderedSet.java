@@ -26,7 +26,7 @@ public interface OrderedSet<K,V> {
 	
 
 	/**
-	 * Prints all of the elements in the set.
+	 * Prints all of the set elements.
 	 */
 	public void print();
 	
