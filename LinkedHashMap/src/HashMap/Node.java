@@ -6,7 +6,7 @@ package HashMap;
  * previous - Pointer to the previous node.
  * next - Pointer to the next node.
  * right - Pointer to the node in collision list.
- * @author Uttam
+ * @author Yashwanth
  *
  * @param <T>
  */
